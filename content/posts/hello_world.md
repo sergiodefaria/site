@@ -15,8 +15,6 @@ tags: ["hello", "blog"]
 
 lightgallery: true
 
-toc:
-  auto: false
 ---
 
 
