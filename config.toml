@@ -189,7 +189,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Henrique de Faria"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "CEO da Aferir Tecnologias de Informação<br>Diretor de Tecnologias de informação, informática, automação em empresas industriais"
+      subtitle = "CEO da Aferir Tecnologias de Informação | Diretor de Tecnologias de informação, informática, automação em empresas industriais"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
@@ -306,7 +306,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = true
+      enable = false
       #  whether to keep the static table of the contents in front of the post
       keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed

@@ -16,6 +16,7 @@ categories: [""]
 lightgallery: true
 
 toc:
-  auto: false
+  enable: true
+  auto: true
 ---
 

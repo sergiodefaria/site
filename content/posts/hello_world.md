@@ -14,7 +14,6 @@ tags: ["hello", "blog"]
 #categories: [""]
 
 lightgallery: true
-
 ---
 
 
