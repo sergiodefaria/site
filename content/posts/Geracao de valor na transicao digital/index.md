@@ -5,7 +5,7 @@ lastmod: 2023-06-18T21:44:00+01:00
 draft: false
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "valor.jpg"
 
 tags: ["Transição", "Digital"]
 categories: ["Transição Digital"]
