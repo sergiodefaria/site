@@ -1,5 +1,5 @@
 ---
-title: "X3DevelopmentModes"
+title: "Modos de desenvolvimento"
 date: 2023-05-08T12:27:54+01:00
 lastmod: 2023-05-08T12:27:54+01:00
 draft: false
@@ -10,8 +10,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["X3", "Development"]
-categories: ["X3"]
+tags: ["Sage X3", "Programação"]
+categories: ["Sage X3 - Programação"]
 
 lightgallery: true
 
