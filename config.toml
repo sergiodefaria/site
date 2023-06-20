@@ -185,11 +185,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/sf.png"
       #  title shown in home page (HTML format is supported)
-      title = "Henrique de Faria"
+      title = "S. Henrique de Faria"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "CEO da Aferir Tecnologias de Informação | Diretor de Tecnologias de informação, informática, automação em empresas industriais"
+      subtitle = "Diretor de Tecnologias de informação, informática, automação em empresas industriais | CEO da Aferir Tecnologias de Informação"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
