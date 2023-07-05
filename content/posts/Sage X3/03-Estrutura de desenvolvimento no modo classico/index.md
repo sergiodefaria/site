@@ -15,7 +15,7 @@ categories: ["Sage X3 - Programação"]
 lightgallery: true
 
 toc:
-  enable: true
+  enable: false
   auto: false
 ---
 Este artigo fornece informações sobre como uma função do Sage X3 é construída. Nos artigos seguintes, darei mais detalhes sobre a criação da interface gráfica do utilizador e o processamento que ocorre nos bastidores.
